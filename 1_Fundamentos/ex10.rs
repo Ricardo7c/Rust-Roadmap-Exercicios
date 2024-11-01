@@ -22,12 +22,9 @@ fn main(){
     let mut b:u128 = 1;
     let mut fib= vec![1];
 
-
     for _ in 1..num{
         fib.push(b);
         (a, b) = (b, a+b);
     }
-
     print!("{:?}", fib);
-
 }
