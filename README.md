@@ -1,5 +1,5 @@
 # Rust-Roadmap-Exercicios
-Exercícios baseados no <a src="https://github.com/Ricardo7c/Rust-Roadmap">Roadmap</a>
+Exercícios baseados no <a src="https://github.com/Ricardo7c/Rust-Roadmap">Roadmap</a> <br>
 20 exercícios para cada topico do roadmap.
 
 ---
