@@ -1,8 +1,6 @@
 # Rust-Roadmap-Exercicios
 Exercícios baseados no <a src="https://github.com/Ricardo7c/Rust-Roadmap">Roadmap</a>
 
-Claro! Vou gerar 10 exercícios para cada tópico do roadmap de Rust, mantendo a complexidade e os conceitos em cada estágio do aprendizado.
-
 ---
 
 ## 🛠️ 1. **Fundamentos do Rust**
